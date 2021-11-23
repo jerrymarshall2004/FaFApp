@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<user>
+    <username>therealdonaldtrump</username>
+    <name>Donald Trump</name>
+    <bio>Make America Great Again!</bio>
+    <posts>
+        <post>
+            <id>0</id>
+            <date>2021-11-23T09:24:51</date>
+            <body>Freedom of Speech!</body>
+        </post>
+    </posts>
+</user>
