@@ -4,7 +4,7 @@
     <name>Not Pickett</name>
     <bio>Jus a cool dude!</bio>
     <color>(0,0,0,1)</color>
-    <textcolor>(255,255,255,255)</textcolor>
+    <textcolor>(255,255,255,1)</textcolor>
     <posts>
         <post>
             <id>0</id>
