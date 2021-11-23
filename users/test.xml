@@ -3,16 +3,20 @@
     <username>therealdonaldtrump</username>
     <name>Donald Trump</name>
     <bio>Make America Great Again!</bio>
+    <color>(0,80,200,1)</color>
+    <textcolor>(255,255,255,1)</textcolor>
     <posts>
         <post>
             <id>0</id>
             <date>2021-11-23T09:24:51</date>
             <body>Freedom of Speech!</body>
+            <color>(0,0,0,.5)</color>
         </post>
         <post>
             <id>1</id>
             <date>2021-11-23T09:24:51</date>
             <body>Anyone else hate poor people?</body>
+            <color>(200,0,0,.5)</color>
         </post>
     </posts>
 </user>
