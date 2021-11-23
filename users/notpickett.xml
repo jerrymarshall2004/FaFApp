@@ -3,6 +3,8 @@
     <username>notpickett</username>
     <name>Not Pickett</name>
     <bio>Jus a cool dude!</bio>
+    <color>(0,0,0,1)</color>
+    <color2>(255,0,0,1)</color2>
     <posts>
         <post>
             <id>0</id>
