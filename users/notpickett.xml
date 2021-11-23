@@ -4,17 +4,18 @@
     <name>Not Pickett</name>
     <bio>Jus a cool dude!</bio>
     <color>(0,0,0,1)</color>
-    <color2>(255,0,0,1)</color2>
     <posts>
         <post>
             <id>0</id>
             <date>2021-11-23T09:24:51</date>
             <body>You seeing this weather?!?</body>
+            <color>(255,0,0,1)</color>
         </post>
         <post>
             <id>1</id>
             <date>2021-11-23T09:24:51</date>
             <body>How does it snow for 24 hours and busses are still running!!!?</body>
+            <color>(255,0,0,1)</color>
         </post>
     </posts>
 </user>
